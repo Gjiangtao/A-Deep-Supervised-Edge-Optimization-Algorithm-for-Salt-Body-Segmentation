@@ -32,7 +32,7 @@ https://1drv.ms/u/s!AsLbpD-adIBLrHkuScdID781sUTr
 ``` 
 2.Unzip it under folder "tgs-dataset"
 
-##Training
+## Training
 1.Go to the experiment folder
 ``` 
 cd config/res34_loss_naive_nodice_hp_scse_ds_border
