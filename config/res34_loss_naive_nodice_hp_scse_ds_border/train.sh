@@ -1,0 +1,1 @@
+python train.py --batch_size=$1 --cycle_inter=100 --cycle_num=1 --mode=train --model=model_34 --model_name=model_34_lossnaive_nodice_hp_scse_ds_border --train_fold_index=0 --dice_weight=0 --bce_weight=1.0
