@@ -1,9 +1,11 @@
 # "A Deep Supervised Edge Optimization Algorithm for Salt Body Segmentation" code
-This is the source code for our paper "A Deep Supervised Edge Optimization Algorithm for Salt Body Segmentation".
+This is the source code for our paper "[A Deep Supervised Edge Optimization Algorithm for Salt Body Segmentation](https://ieeexplore.ieee.org/abstract/document/9145672)".
 
 
 
 ## Recent Update
+
+**`2020.07.23`**: Our paper has been accepted by ***IEEE Geoscience and Remote Sensing Letters***. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9145672)
 
 **`2020.04.06`**: First push the code.
 
