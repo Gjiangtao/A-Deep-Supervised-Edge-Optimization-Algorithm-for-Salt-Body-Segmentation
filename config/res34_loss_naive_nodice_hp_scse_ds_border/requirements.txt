@@ -1,6 +1,6 @@
 glob2==0.6
 Pillow==5.2.0
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 scikit-image==0.14.0
 scikit-learn==0.19.2
 scipy==1.1.0
